@@ -2,6 +2,8 @@ Hi, I'm Antoine. I am an engineer from France :fr: .
 
 I work at Frizbiz as a backend developer :computer: .
 
+![Frizbiz](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.frizbiz.com%2Ffr%2Farticles%2Ffonctionnement-de-frizbiz&psig=AOvVaw1Q0-OaqsFB8y-FKRryRtKI&ust=1594368657547000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCi153cv-oCFQAAAAAdAAAAABAD)
+
 <!--
 **LudoCruchot/LudoCruchot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
