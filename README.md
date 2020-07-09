@@ -11,6 +11,6 @@ I work at **Frizbiz** as a TypeScript backend developer :computer: .
 
 ### Studies :mortar_board: 
 
-**ESILV** :round_pushpin: Paris - La Défense :fr: - Engineer degree
+- **ESILV** :round_pushpin: Paris - La Défense :fr: - Engineer degree
 
-**UQAC** :round_pushpin: Saguenay :canada: - IT master
+- **UQAC** :round_pushpin: Saguenay :canada: - IT master
