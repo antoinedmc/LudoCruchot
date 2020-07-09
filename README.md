@@ -4,7 +4,7 @@ Hi, I'm Antoine. I am an engineer from France :fr:.
 
 Coding lover, I am passionate about web development and big data.
 
-I work at **Frizbiz** as a backend developer :computer: . 
+I work at **Frizbiz** as a TypeScript backend developer :computer: . 
 
 
 :round_pushpin:  Lille | :email:  a.demonchaine@gmail.com
