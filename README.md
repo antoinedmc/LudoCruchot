@@ -1,6 +1,6 @@
-### Hi there 👋
+Hi, I'm Antoine. I am an egineer from France :fr: .
 
-I'm a TypeScript backend developer @Frizbiz
+I work at Frizbiz as a backend developer :computer: .
 
 <!--
 **LudoCruchot/LudoCruchot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
