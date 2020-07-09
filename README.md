@@ -2,7 +2,7 @@
 
 Hi, I'm Antoine. I am an engineer from France :fr:.
 
-Coding lover, passionate about web development and big data.
+Coding lover, I am passionate about web development and big data.
 
 I work at **Frizbiz** as a backend developer :computer: . 
 
