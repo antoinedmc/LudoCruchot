@@ -1,4 +1,4 @@
-Hi, I'm Antoine. I am an egineer from France :fr: .
+Hi, I'm Antoine. I am an engineer from France :fr: .
 
 I work at Frizbiz as a backend developer :computer: .
 
