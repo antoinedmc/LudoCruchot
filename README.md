@@ -14,3 +14,5 @@ I work at **Frizbiz** as a TypeScript backend developer :computer: .
 - **ESILV** :round_pushpin: Paris - La Défense :fr: - Engineer degree
 
 - **UQAC** :round_pushpin: Saguenay :canada: - IT master
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
